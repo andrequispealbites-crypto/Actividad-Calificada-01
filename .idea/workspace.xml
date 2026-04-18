@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="56329883-91c9-4c14-86a0-dbb081a248dd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/controllers/BuscarEventoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/controllers/EliminarEventoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/controllers/EventListController$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/controllers/EventListController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/controllers/HomeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/controllers/NewEventController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/controllers/RegistrarInvitadoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/core/Controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/core/Model.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/core/View.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/models/Frequency.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/models/SchedulerEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/models/SchedulerIO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/models/SchedulerUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/views/EventListView$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/views/EventListView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/views/HomeView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/views/NewEventView$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/views/NewEventView$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/views/NewEventView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/views/RegistrarInvitadoView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/events.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleTerminado/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleTerminado/controllers/BuscarEventoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleTerminado/controllers/EliminarEventoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleTerminado/controllers/EventListController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleTerminado/controllers/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleTerminado/controllers/NewEventController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleTerminado/controllers/RegistrarInvitadoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleTerminado/core/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleTerminado/core/Model.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleTerminado/core/View.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleTerminado/models/Frequency.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleTerminado/models/SchedulerEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleTerminado/models/SchedulerIO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleTerminado/models/SchedulerUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleTerminado/views/EventListView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleTerminado/views/HomeView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleTerminado/views/NewEventView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleTerminado/views/RegistrarInvitadoView.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3CTDNzPajs8lihpr0gsQlr8fBbq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;JAR Application.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/andre/Desktop/trabajo de poo git&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="controllers" />
+      <recent name="views" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Unnamed">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="MVC-in-Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="JarApplication" nameIsGenerated="true">
+      <option name="WORKING_DIRECTORY" value="C:\Users\andre\Desktop\MVC-in-Java-master" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/.jdks/openjdk-26" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="JAR Application.Unnamed" />
+    </list>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56329883-91c9-4c14-86a0-dbb081a248dd" name="Changes" comment="" />
+      <created>1776400629257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1776400629257</updated>
+      <workItem from="1776400630338" duration="773000" />
+      <workItem from="1776401424741" duration="3552000" />
+      <workItem from="1776456106361" duration="6863000" />
+      <workItem from="1776462991915" duration="9018000" />
+      <workItem from="1776492752346" duration="120000" />
+      <workItem from="1776493655743" duration="256000" />
+      <workItem from="1776493933387" duration="6000" />
+      <workItem from="1776493962194" duration="3912000" />
+      <workItem from="1776536141384" duration="198000" />
+      <workItem from="1776537851024" duration="571000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
